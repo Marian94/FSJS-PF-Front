@@ -12,3 +12,11 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.nav-icons{
+  color:whitesmoke; 
+  text-indent: .3em;
+}
+.mobile-icons{
+  color:black; 
+  text-indent: .3em;
+}
